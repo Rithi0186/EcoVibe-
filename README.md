@@ -102,3 +102,4 @@ All tables have Row Level Security (RLS) enabled.
 npm run build  # Creates dist/ folder
 ```
 Deploy `dist/` to Vercel, Netlify, or any static host.
+# EcoVibe-
